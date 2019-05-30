@@ -22,7 +22,7 @@ Multi-level Mesa requires
 
 Examples of multilevel_mesa are available at [Sugarscape Models]:https://github.com/tpike3/SugarScape
 
-These examples are various instantiations of the Sugar and Spice trading model described in Chapter 4 of *Growing Artificial Societies* by ROb Axtell and Joshua Epstein.   
+These examples are various instantiations of the Sugar and Spice trading model described in Chapter 4 of *Growing Artificial Societies* by Rob Axtell and Joshua Epstein.   
 
 ## Creating an Multi-level Mesa Instance and the Multi-level Mesa Managers
 
